@@ -4,6 +4,7 @@ This repository contains the projects I completed during my Data Analytics Inter
 They cover Excel dashboards, Python EDA, customer segmentation, and time series analysis; applying skills in data cleaning, visualization, and business insights.
 
 **Projects & Tasks**
+
 1️⃣ Sales Performance Dashboard (Excel)
 
 Built an interactive Excel dashboard using Superstore data.
