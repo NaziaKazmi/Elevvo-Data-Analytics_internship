@@ -1,4 +1,5 @@
 **Elevvo Data Analytics Internship**
+
 This repository contains the projects I completed during my Data Analytics Internship with Elevvo.
 They cover Excel dashboards, Python EDA, customer segmentation, and time series analysis; applying skills in data cleaning, visualization, and business insights.
 
